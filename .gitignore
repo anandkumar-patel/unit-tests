@@ -1,0 +1,6 @@
+mockito-boot/.mvn/
+mockito-mvc/.classpath
+mockito-mvc/.project
+mockito-mvc/.settings/
+mockito-mvc/target/
+testng-mockito/.mvn/
