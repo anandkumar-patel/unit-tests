@@ -4,3 +4,4 @@ mockito-mvc/.project
 mockito-mvc/.settings/
 mockito-mvc/target/
 testng-mockito/.mvn/
+testng-mockito/test-output
